@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at ISTA H.H 1 <br>👯 I’m looking to collaborate on fullstack / frontend / backend projects<br>🤝 I’m looking for internship<br>🌱 I’m currently learning laravel, uml & testing with jest
+🔭 I’m currently studying at ISTA H.H 1 <br>👯 I’m looking to collaborate on fullstack / frontend / backend projects<br>🤝 I’m looking for internship<br>🌱 I’m currently learning laravel & testing with jest
 
 
 ## 🌐 Socials:
